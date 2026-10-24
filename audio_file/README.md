@@ -1,33 +1,18 @@
-# Aurelle – Think-Aloud UX Evaluation
+## UI/UX Think-Aloud Testing: Aurelle vs BlueStone
 
-## 📌 Project Overview
-Aurelle is a jewellery e-commerce website concept designed to provide a seamless, accessible, and user-friendly shopping experience. This project uses the **Think-Aloud usability testing method** to evaluate the user experience of Aurelle in comparison with BlueStone.
+This project evaluates the usability of **Aurelle**, a jewellery e-commerce website prototype, through Think-Aloud testing with five reviewers, comparing its user experience with BlueStone.
 
-## 🎯 Objective
-The objective is to understand how easily international customers can navigate the website, understand product pricing, and make informed purchasing decisions.
+The evaluation focuses on product navigation, add-to-cart functionality, virtual try-on, transparent pricing, personalized gifting, and international shopping convenience.
 
-## 🔍 Key Features Evaluated
-- **International Pricing:** Displays product prices in the customer's local currency.
-- **Transparent Price Breakdown:** Provides a clear breakdown of applicable taxes, shipping charges, and other costs.
-- **Shipping Information:** Helps international customers understand delivery charges and related details.
-- **User-Friendly Navigation:** Evaluates the ease of finding jewellery products and accessing essential information.
-- **Shopping Convenience:** Focuses on reducing confusion and improving the overall purchasing experience.
+### Key Findings
+- **Easy Navigation:** Aurelle offers a clear, visually appealing interface.
+- **Virtual Try-On:** Enables users to preview jewellery with a camera feature.
+- **Transparent Pricing:** Provides gold purity comparisons and pricing information.
+- **Personalized Gifting:** Helps users choose jewellery based on the recipient.
+- **International Shopping:** Displays local currency, taxes, and shipping information.
+- **Trust and Accessibility:** Highlights hallmarking, insured delivery, and exchange options, while identifying font readability as an area for improvement.
 
-## 🧪 Methodology – Think-Aloud Protocol
-During the evaluation, users verbalize their thoughts, expectations, and difficulties while interacting with the websites. The observations help identify usability issues and compare the shopping experience offered by Aurelle and BlueStone.
+### Objective
+To identify usability strengths and improvement areas through user feedback and demonstrate how thoughtful UI/UX design can create a more convenient and accessible jewellery-shopping experience.
 
-## ⚖️ Comparative Analysis
-The evaluation highlights Aurelle's focus on transparent international pricing, localized currency display, and clear shipping information. These features aim to make jewellery shopping more convenient for international customers compared with the information available on BlueStone's website.
-
-## 💡 Expected Outcome
-The project aims to identify usability strengths, understand user pain points, and demonstrate how transparent pricing and accessible information can improve the international jewellery shopping experience.
-
-## 🛠️ Project Type
-- UI/UX Design
-- E-commerce Usability Testing
-- Think-Aloud Protocol
-- Comparative Website Evaluation
-
-## 👩‍💻 Project
-**Aurelle – Jewellery E-commerce Website Concept**
-
+**Tools/Methods:** UI/UX Prototyping | Think-Aloud Protocol | Comparative Usability Testing
