@@ -1,1 +1,1 @@
-# figma-improved-design-of-bluestone-jewellery
+# Improved-figma-design-of-bluestone-jewellery
